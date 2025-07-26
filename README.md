@@ -7,8 +7,9 @@
 
 - 🌱 I’m currently learning **new technologies and frameworks**
 - 👯 I’m looking to collaborate on **open source and fun projects**
+- 💬 Ask me about **web development, Python, JavaScript, Java, SQL, PostgreSQL and tech in general**
 - 📫 How to reach me: [aarshbvaidya@gmail.com]
-- ⚡ I love learning about new tech trends!
+- ⚡ Fun fact: I love solving puzzles and learning about tech trends!
 
 ## 🛠️ Languages and Tools
 
@@ -33,11 +34,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aarsh-37&theme=github-dark-blue" alt="Aarsh's GitHub streak" />
 </p>
 -->
+
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aarsh37)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/Aarsh-37)
-
+<a href="https://www.linkedin.com/in/aarsh37" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Aarsh-37" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github" alt="GitHub"/>
+</a>
 
 ---
 
