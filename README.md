@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate on **open source and fun projects**
 - 💬 Ask me about **web development, Python, JavaScript, Java, SQL, PostgreSQL and tech in general**
 - 📫 How to reach me: [aarshbvaidya@gmail.com]
-- ⚡ Fun fact: I love solving puzzles and learning about tech trends!
+- ⚡ I love learning about tech trends!
 
 ## 🛠️ Languages and Tools
 
