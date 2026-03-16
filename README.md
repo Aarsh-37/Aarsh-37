@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aarsh Vaidya</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+Python+%7C+Java;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+%7C+ML+%7C+DevOps;Open+Source+Enthusiast;Always+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
